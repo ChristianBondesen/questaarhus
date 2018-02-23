@@ -5,6 +5,7 @@
     "expo": "^25.0.0",
     "react": "16.2.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "react-native-keyboard-aware-scroll-view": "^0.4.4",
     "react-navigation": "^1.1.2",
     "react-routing": "^0.0.7"
   }
